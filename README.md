@@ -1,1 +1,5 @@
 # kardiovasikular-analisis
+
+		Sebanyak 13% kematian di dunia yang disebabkan oleh penyakit merupakan akibat dari penyakit kardiovaskular. Kardiovaskular atau cardiovascular disease (CVD) merupakan penyakit dimana terjadi penyempitan atau pemblokiran pembuluh darah yang dapat menyebabkan serangan jantung, angina atau stroke. 
+		Upaya yang dapat dilakukan untuk mencegah terjadinya resiko kematian pada pasien kardiovaskular yaitu mendeteksi dini penyakit kardiovaskular pada individu yang memiliki potensi. Pencegahan dini dapat dilakukan dengan memperhatikan faktor-faktor penyebab kardiovaskular seperti gaya hidup yang tidak sehat, genetika, dan kondisi medis tertentu seperti kolesterol tinggi, obesitas, dan tekanan darah tinggi. 
+		Namun, deteksi dini pada pasien kardiovaskular dengan cepat dan efisien masih sulit untuk dilakukan, karena kompleks dan besarnya volume data medis. Untuk menangani hal ini, maka perlu dilakukan pendekatan menggunakan teknologi big data dengan memanfaatkan Apache Spark dan Machine Learning yang mampu untuk mengolah data secara skala besar dan kompleks sehingga proses deteksi penyakit kardiovaskular dapat dilakukan dengan efisien. 
