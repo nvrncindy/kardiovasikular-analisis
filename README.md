@@ -1,5 +1,27 @@
 # kardiovasikular-analisis
 
-		Sebanyak 13% kematian di dunia yang disebabkan oleh penyakit merupakan akibat dari penyakit kardiovaskular. Kardiovaskular atau cardiovascular disease (CVD) merupakan penyakit dimana terjadi penyempitan atau pemblokiran pembuluh darah yang dapat menyebabkan serangan jantung, angina atau stroke. 
-		Upaya yang dapat dilakukan untuk mencegah terjadinya resiko kematian pada pasien kardiovaskular yaitu mendeteksi dini penyakit kardiovaskular pada individu yang memiliki potensi. Pencegahan dini dapat dilakukan dengan memperhatikan faktor-faktor penyebab kardiovaskular seperti gaya hidup yang tidak sehat, genetika, dan kondisi medis tertentu seperti kolesterol tinggi, obesitas, dan tekanan darah tinggi. 
-		Namun, deteksi dini pada pasien kardiovaskular dengan cepat dan efisien masih sulit untuk dilakukan, karena kompleks dan besarnya volume data medis. Untuk menangani hal ini, maka perlu dilakukan pendekatan menggunakan teknologi big data dengan memanfaatkan Apache Spark dan Machine Learning yang mampu untuk mengolah data secara skala besar dan kompleks sehingga proses deteksi penyakit kardiovaskular dapat dilakukan dengan efisien. 
+Sebanyak **13% kematian di dunia** yang disebabkan oleh penyakit merupakan akibat dari penyakit **kardiovaskular (Cardiovascular Disease / CVD)**.  
+CVD adalah kondisi ketika terjadi penyempitan atau pemblokiran pembuluh darah yang dapat menyebabkan **serangan jantung, angina, atau stroke**.
+
+## Latar Belakang
+Upaya yang dapat dilakukan untuk mencegah risiko kematian akibat penyakit kardiovaskular adalah **deteksi dini** terhadap individu yang memiliki potensi penyakit ini.  
+Faktor-faktor utama penyebab CVD meliputi:
+- Gaya hidup yang tidak sehat  
+- Faktor genetik  
+- Kondisi medis tertentu seperti **kolesterol tinggi, obesitas, dan tekanan darah tinggi**
+
+Namun, **deteksi dini CVD secara cepat dan efisien** masih menjadi tantangan karena kompleksitas dan besarnya volume data medis.
+
+## Solusi
+Untuk menangani permasalahan tersebut, digunakan pendekatan berbasis **Big Data Technology** dengan memanfaatkan:
+- **Apache Spark** untuk pemrosesan data berskala besar dan kompleks  
+- **Machine Learning** untuk membangun model prediksi yang mampu mendeteksi potensi penyakit kardiovaskular secara efisien
+
+Pendekatan ini memungkinkan proses deteksi dilakukan secara **otomatis, cepat, dan akurat**.
+
+## Teknologi yang Digunakan
+- Apache Spark  
+- Python  
+- Machine Learning (Scikit-learn / PySpark MLlib)
+- Pandas & NumPy  
+- Matplotlib / Seaborn (untuk visualisasi data)
